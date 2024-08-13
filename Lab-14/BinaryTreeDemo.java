@@ -34,6 +34,5 @@ class BinaryTree{
          
         return newNode;
 
-
     }
 }
